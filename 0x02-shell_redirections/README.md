@@ -1,3 +1,4 @@
+
 ## 0x02. Shell, I/O Redirections and filters
 
 [0-hello_world](./0-hello_world) - Write a script that prints “Hello, World”, followed by a new line to the standard output.
@@ -56,5 +57,11 @@ include capital letters as well
 
 [21-reverse](./21-reverse) - Write a script that reverse its input.
 
-[22-users_and_homes](./22-users_and_homes) - Write a script that displays all users and their home directories, sorted by users.
-Based on the the /etc/passwd file
+[22-users_and_homes](./22-users_and_homes) - Write a script that displays all users and their home directories, sorted by users.100-empty_casks	Finds all empty files and directories in the current directory and all sub-directories
+
+101-gifs	Lists all the files with a .gif extension in the current directory and all its sub-directories
+
+102-acrostic	Decodes acrostics that use the first letter of each line
+
+103-the_biggest_fan	Parses web servers in TSV format as input and displays the 11 hosts or IP addresses which did the most requests
+
